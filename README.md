@@ -2,6 +2,13 @@
 
 A simple and efficient solution for managing and translating Heroicons in FilamentPHP forms and tables. This helper provides an organized way to handle icon selection with multi-language support and category organization.
 
+## 📚 Available Languages
+
+This documentation is available in the following languages:
+
+- [English](README.md) (current)
+- [Español](README.es.md) (Spanish)
+
 ## 🌟 Features
 
 - 🌐 Multi-language support for icon labels
